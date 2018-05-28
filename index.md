@@ -15,12 +15,22 @@
 * [Android](https://play.google.com/store/apps/details?id=com.oneknow.app)
 
 ## 1Campus Classroom
-##### 智慧教室，整合 1Campus App 功能，提供 Classroom、Teacher、Student、Zenbo 四頻同步上課。
+##### 智慧教室，整合 1Campus App 功能，提供 Classroom、Teacher、Student、Zenbo 四頻同步上課
 [https://classroom.1campus.net](https://classroom.1campus.net)
-* Classroom : 可經由 Teacher 透過手機播放影片、播放投影片(Google Slides)、即時問答、隨機抽人等功能或 Student 回答問題、投票等即時統計
-* Teacher : 透過手機播放影片、播放投影片(Google Slides)、即時問答、隨機抽人等功能同步至 Classroom 或 Student
-* Student : 可依 Teacher 上課內容互動，例如：即時問答回覆、隨機抽人通知
-* Zenbo : 課堂小助理
+* Classroom : 可經由 Teacher 透過手機播放影片、播放投影片(Google Slides)、即時問答、隨機抽人等功能或 Student 回答問題、投票等即時統計。
+* Teacher : 透過手機播放影片、播放投影片(Google Slides)、即時問答、隨機抽人等功能同步至 Classroom 或 Student。
+* Student : 可依 Teacher 上課內容互動，例如：即時問答回覆、隨機抽人通知。
+* Zenbo : 課堂小助理。
+
+##### 使用技術
+* React Native : 手機端 APP。
+* ReactJS : 網頁端 Framework。
+* Firebase
+  * Hosting
+  * Firestore
+  * Cloud Functions
+  * Cloud Messaging
+
 
 ## Line Bot 整合開發
 ##### Line Bot 開發公司內部上下班打卡、差假、工作回報等功能
