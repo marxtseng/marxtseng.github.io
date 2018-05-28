@@ -26,7 +26,8 @@
 
 ## 相關連結
 * [Twitter](https://twitter.com/marx_tseng)
-* [CodePen](https://codepen.io/marxtseng)
-* [Udacity](https://profiles.udacity.com/p/u4552099)
-* [Blogger](https://marx-tseng.blogspot.tw)
 * [LinkedIn](https://www.linkedin.com/in/marxtseng)
+* [Udacity](https://profiles.udacity.com/p/u4552099)
+* [Github](https://marxtseng.github.io)
+* [CodePen](https://codepen.io/marxtseng)
+* [Blogger](https://marx-tseng.blogspot.tw)
