@@ -33,8 +33,8 @@
   * Cloud Messaging
 
 
-## Line Bot 整合開發
-##### Line Bot 開發公司內部上下班打卡、差假、工作回報等功能
+## AI 機器人開發
+##### Google Assistant & Line Bot 等數位助理機器人開發
 
 ## ASUS Zenbo 整合開發
 ##### 開發 Zenbo 互動教學 APP
