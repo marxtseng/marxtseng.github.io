@@ -40,9 +40,7 @@
 ##### 開發 Zenbo 互動教學 APP
 
 ## 相關連結
-* [Twitter](https://twitter.com/marx_tseng)
 * [LinkedIn](https://www.linkedin.com/in/marxtseng)
 * [Udacity](https://profiles.udacity.com/p/u4552099)
 * [Github](https://github.com/marxtseng)
-* [CodePen](https://codepen.io/marxtseng)
-* [Blogger](https://marx-tseng.blogspot.tw)
+* [Twitter](https://twitter.com/marx_tseng)
