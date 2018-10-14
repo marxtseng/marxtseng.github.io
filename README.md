@@ -1,6 +1,12 @@
 ![ScreenShot](https://raw.githubusercontent.com/marxtseng/marxtseng.github.io/master/nd-grad-cert.png)
 ![ScreenShot](https://raw.githubusercontent.com/marxtseng/marxtseng.github.io/master/Mobile_Sites_Certification_Academy_for_Ads.png)
 
+本身所學專長是營建相關領域背景為主，於92年6月畢業於朝陽科技大學營建工程研究所，畢業後即投入營建相關領域中工作，但在工作一段時間後，發現自已真正的志向並非於此，而且在求學過程中對於電腦軟硬體、綱路資訊、程式設計等方面又有著很濃厚的興趣，再加上碩士研究方向也和程式設計及演算法有關，因此亦然的辭去工作，進修有關資訊方面領域的專業訓練。
+
+先後進修過Java程式設計班及行政院的第二專長人材培訓班(程式設計師班)等，進而考取SCJP認證及MOUS專家認證等證書。
+
+踏入職場後，開始接觸研究不同領域的專長，主要專長則是 Full Stack Web Developer，針對不同專案內容使用最佳的前後端 Framework 組合開發(例如：Angular, Polymer, React, Vue,  Node.js, Java, ROR, Ruby, Python, AWS, GCC, GAE 等等)；另外本身也接觸一些 Mobile APP 開發，在 Mobile APP 開發也會因 APP 內容使用不同的開發語言組合(例如：Native or Hybrid 等)；喜歡研究新的開發平台與技術，一直持續在學習中。
+
 ## 前後端完整的網站開發設計及 Mobile App 開發
 * 自管主機：前端使用 ReactJS, AngularJS, Vue, Polymer 等 framework，後端常用 NodeJS, ROR, PostgreSQL, MongoDB 等平台技術，前後端透過 RESTful API 溝通。
 * 雲端主機：使用 Google 服務及平台整合開發系統，前端使用 ReactJS, AngularJS, Vue, Polymer 等 framework，後端使用 GAE, GCC, GCD, Firebase 等平台技術，前後端透過 Google RESTful API 溝通。
