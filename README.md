@@ -38,6 +38,9 @@ Line Bot 開發公司內部上下班打卡、差假、工作回報等功能
 ## Udacity : Senior Web Developer Nanodegree
 [Source](https://marxtseng.github.io/Senior-Web-Developer-Nanodegree)
 
+## 教育訓練
+[Better Development](https://marxtseng.github.io/better-development)
+
 ## 相關連結
 * [LinkedIn](https://www.linkedin.com/in/marxtseng)
 * [Udacity](https://profiles.udacity.com/p/u4552099)
