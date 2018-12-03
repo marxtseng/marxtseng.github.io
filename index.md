@@ -39,7 +39,8 @@ Line Bot 開發公司內部上下班打卡、差假、工作回報等功能
 [Source](https://marxtseng.github.io/Senior-Web-Developer-Nanodegree)
 
 ## 教育訓練
-[Better Development](https://marxtseng.github.io/better-development)
+* [Better Development](https://marxtseng.github.io/better-development)
+* [Google Assistant With Snowboy](https://github.com/marxtseng/google-assistant-service-with-snowboy-hotword-detection)
 
 ## 相關連結
 * [LinkedIn](https://www.linkedin.com/in/marxtseng)
